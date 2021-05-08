@@ -1,0 +1,2 @@
+# financial-time-series
+The project is dedicated to the prediction of electricity consumption in the central district of St. Petersburg. Data represents the historical values of electricity consumption at different times of the year. The time series was decomposed into trend, seasonality, and non-deterministic components. The seasonality is modeled by a harmonic function. After that, the ARMA and ARIMA models were fitted.
